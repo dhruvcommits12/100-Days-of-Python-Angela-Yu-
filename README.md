@@ -37,26 +37,26 @@ It highlights **daily coding practice, problem-solving, and end-to-end project d
 
 ```text
 100-days-of-python/
-├── Day_01/
+├── Day 1/
 │   ├── 
 │   └──
 ...
 │   ├── project.py
 │
-├── Day_02/
+├── Day 2/
 │   ├── 
 │   └──
 ...
 │   ├── project.py
 │
-├── Day_03/
+├── Day 3/
 │   └──
 ...
 │   ├── project.py
 │..
 |..
 |
-├── Day_100/
+├── Day 100/
 │   └── 
 │
 ├── Projects/
@@ -68,7 +68,7 @@ It highlights **daily coding practice, problem-solving, and end-to-end project d
 ```
 ## 📌 Organization Strategy
 
-- Each **Day-xx** folder contains:
+- Each **Day xx** folder contains:
   - Lecture-based code  
   - Project related to the day  
 
@@ -80,7 +80,7 @@ It highlights **daily coding practice, problem-solving, and end-to-end project d
 ## 📝 File Naming Convention
 
 All files follow the format:
-
+`LecNo-Topic_Covered.py`
 
 **Examples:**
 - `Lec03-Loops.py`  
