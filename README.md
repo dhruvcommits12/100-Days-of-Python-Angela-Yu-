@@ -110,5 +110,11 @@ All course content is credited to **Dr. Angela Yu** and **Udemy**.
 - Udemy – Learning Platform  
 
 ---
+## 📬 Feel free to reach out
+
+- **GitHub:** https://github.com/dhruvcommits12
+- **LinkedIn:** *https://www.linkedin.com/in/dhruv-gupta-705160314/*
+
+---
 
 ⭐ *If you find this useful, consider starring the repo!*
