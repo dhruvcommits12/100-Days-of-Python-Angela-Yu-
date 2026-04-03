@@ -17,7 +17,7 @@ def caesar(direction, original_text, shift_amount):
         else:
             final_result+=letter
     
-    print(f"Here is the {direction}d text:{final_result}")
+    print(f"Your {direction}d text:{final_result}")
 
 should_continue=True
 
